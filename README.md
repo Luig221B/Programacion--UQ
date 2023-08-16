@@ -1,3 +1,3 @@
 # Programacion--UQ
-Aqui se almacenara, informacion sobre el curso de programacion del programa de fisica de la universidad del Quindio 
+Aqui se almacenará, informacion sobre el curso de programacion 2023-2 del programa de fisica de la universidad del Quindio //
 Tareas, etc.
